@@ -1,6 +1,6 @@
 # Ejercicios Repaso Javascript
 
-Programar el modulo 'moduloEjercicios.js', de manera de completar las distintas funciones que se declaran en ese modulo siguiendo las especificaciones que se encuentran en el comentario de cada funcion.
+Programar el modulo '[moduloEjercicios.js](./src/moduloEjercicios.js)', de manera de completar las distintas funciones que se declaran en ese modulo siguiendo las especificaciones que se encuentran en el comentario de cada funcion.
 
 La idea es utilizar las operaciones de control de flujo basicas de js, como son for e if y tambien funciones basicas de arreglos como filter, map, forEach.
 
@@ -18,8 +18,8 @@ npm start
 
 ## Ejercicio
 
-Lo que tenemos que hacer, es implementar las distintas funciones que hay en el archivo moduloEjercicios.js, de manera que utilizen los datos de database.js para producir los valores esperados.
+Lo que tenemos que hacer, es implementar las distintas funciones que hay en el archivo [moduloEjercicios.js](./src/moduloEjercicios.js), de manera que utilizen los datos de database.js para producir los valores esperados.
 
 En este caso intencionalemente no hay tests, para que comparemos los resultados que conseguimos dentro del grupo.
 
-No se pueden modificar los datos en basededatos.js
+No se pueden modificar los datos en [basededatos.js](./src/basededatos.js).
